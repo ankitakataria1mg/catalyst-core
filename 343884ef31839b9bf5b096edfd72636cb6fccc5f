@@ -1,0 +1,23 @@
+package.json
+  853345096ab05c14 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.34",
+  "base_commit_sha": "343884ef31839b9bf5b096edfd72636cb6fccc5f",
+  "prompts": {
+    "853345096ab05c14": {
+      "agent_id": {
+        "tool": "DeputyDev",
+        "id": "365746",
+        "model": "AUTO"
+      },
+      "human_author": "Ankita Kataria <ankita.a2@1mg.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
