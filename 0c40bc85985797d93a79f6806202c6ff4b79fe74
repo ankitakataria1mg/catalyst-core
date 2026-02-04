@@ -1,0 +1,25 @@
+src/webpack/production.ssr.babel.js
+  60cf816a91c2996c 39-49
+src/webpack/development.client.babel.js
+  60cf816a91c2996c 115-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "0c40bc85985797d93a79f6806202c6ff4b79fe74",
+  "prompts": {
+    "60cf816a91c2996c": {
+      "agent_id": {
+        "tool": "DeputyDev",
+        "id": "372276",
+        "model": "AUTO"
+      },
+      "human_author": "Ankita Kataria <ankita.a2@1mg.com>",
+      "messages": [],
+      "total_additions": 22,
+      "total_deletions": 0,
+      "accepted_lines": 22,
+      "overriden_lines": 0
+    }
+  }
+}
