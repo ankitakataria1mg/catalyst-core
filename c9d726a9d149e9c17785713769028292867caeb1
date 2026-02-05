@@ -1,0 +1,25 @@
+src/webpack/development.client.babel.js
+  102ea4feb3c8b476 131
+src/webpack/production.ssr.babel.js
+  102ea4feb3c8b476 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "c9d726a9d149e9c17785713769028292867caeb1",
+  "prompts": {
+    "102ea4feb3c8b476": {
+      "agent_id": {
+        "tool": "DeputyDev",
+        "id": "372832",
+        "model": "CLAUDE_4_POINT_5_SONNET"
+      },
+      "human_author": "Ankita Kataria <ankita.a2@1mg.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
